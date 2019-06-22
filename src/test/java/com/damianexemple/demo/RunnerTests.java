@@ -12,6 +12,7 @@ public class RunnerTests {
 	@Test
 	public void contextLoads() {
 		//test 1
+		//test lenovo
 	}
 
 }
